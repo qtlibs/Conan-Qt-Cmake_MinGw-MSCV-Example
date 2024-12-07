@@ -3,7 +3,7 @@
 This simple project demonstrates how to use CMake, Conan, and Qt  in Qt Creator to end the struggle with libraries forever. ))))
 
 Steps to Set Up the Project
-Install Conan: Download and install Conan from conan.io/center. It is recommended to use the x64 version, not the Python version, on Windows.
+Install Conan: Download and install Conan from conan.io/center. It is recommended to use the x64 version, not the Python version, on Windows. https://conan.io/downloads
 
 Detect Conan Profile: Run the following command in your command prompt to detect the Conan profile:
 
