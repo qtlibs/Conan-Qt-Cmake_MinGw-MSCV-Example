@@ -1,5 +1,8 @@
 
 # Conan-Qt-Cmake_MinGw-MSCV-Example
+
+Set me a star, if it helps please
+
 This simple project demonstrates how to use CMake, Conan, and Qt  in Qt Creator to end the struggle with libraries forever. ))))
 
 Steps to Set Up the Project
