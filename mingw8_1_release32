@@ -1,0 +1,13 @@
+[settings]
+os=Windows
+arch=x86
+compiler=gcc
+compiler.version=8.1
+compiler.cppstd=gnu14
+compiler.libcxx=libstdc++11
+build_type=Release
+[buildenv]
+CONAN_CMAKE_GENERATOR="Ninja"
+CXX=c:/Qt/Tools/mingw810_32/bin/g++.exe
+CC=c:/Qt/Tools/mingw810_32/bin/gcc.exe
+PATH+=c:\Qt\Tools\mingw810_32\bin
