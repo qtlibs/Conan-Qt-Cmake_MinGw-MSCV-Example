@@ -1,10 +1,21 @@
-# Conan-Qt-Cmake_MinGw-MSCV-Example
-example of silly project using cmake conan and qt
-This simple project will help end the suffering with libs forever.))))
 
-1. Install conan https://conan.io/center (recomend x64 not python on win)
-2. conan profile detect --force (cmd)
-3. Move profiles files to C:\Users\_______\.conan2\profiles and check paths if nessessr
-4. Add GCC, Ninja, Cmake, Nmake to system path
-5. Disable ![image](https://github.com/user-attachments/assets/e128f638-57f3-4aa6-ae3e-7291263eb9f4)
-6. Configure kits (check ! ![image](https://github.com/user-attachments/assets/4725a314-e99c-4ace-8479-d27708185bad) )and enjoy
+# Conan-Qt-Cmake_MinGw-MSCV-Example
+This simple project demonstrates how to use CMake, Conan, and Qt to end the struggle with libraries forever. ))))
+
+Steps to Set Up the Project
+Install Conan: Download and install Conan from conan.io/center. It is recommended to use the x64 version, not the Python version, on Windows.
+
+Detect Conan Profile: Run the following command in your command prompt to detect the Conan profile:
+
+`conan profile detect --force`
+
+Move Profile Files: Move the generated profile files to C:\Users\<YourUsername>\.conan2\profiles and verify the paths if necessary.
+
+Add Tools to System Path: Ensure that GCC, Ninja, CMake, and Nmake are added to your system's PATH environment variable.
+
+Disable Unnecessary Settings: Disable any unnecessary settings as shown in the image below:
+[image](https://github.com/user-attachments/assets/e128f638-57f3-4aa6-ae3e-7291263eb9f4)
+
+Configure Kits: Check and configure your kits as shown in the image below, and enjoy your streamlined development process:
+[image](https://github.com/user-attachments/assets/4725a314-e99c-4ace-8479-d27708185bad)
+By following these steps, you should be able to set up and use this project without any issues. Happy coding!
